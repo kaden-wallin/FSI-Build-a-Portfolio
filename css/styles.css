@@ -1,5 +1,10 @@
-.Name {
-background-color: darkgray;
+.name {
+ background-color: darkgray;
 text-align: center;
-color: white;
 }
+.title {
+background-color: lightgray;
+}
+img {
+ border-radius: 50%;
+ }
